@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 AI Researcher, Software and Web Developer.
 ------------------------------------------
 
-Software and website developer for over 3 years with over 1 year of experience as a researcher at the Control Automotive and Robotics Lab (part of NCRA) at Mirpur University of Science and Technology. Skilled at Car Automaton in Controlled Environment and Artificial Intelligence Based Automaton. Also skilled at embedded systems and electrical hardware.
+Software and website developer for over 4 years with over  year of experience as a researcher at the Control Automotive and Robotics Lab (part of NCRA) at Mirpur University of Science and Technology. Skilled at Car Automaton in Controlled Environment and Artificial Intelligence Based Automaton. Also skilled at embedded systems and electrical hardware.
 
 * 🌍  I'm based in Azad Kashmir, Pakistan.
 * 🖥️  See my portfolio at [My Portfolio.](http://gm-freelancer.github.io)
