@@ -9,7 +9,7 @@ Software and website developer for over 4 years with over 2 year of experience a
 * 🌍  I'm based in Azad Kashmir, Pakistan
 * 🖥️  See my portfolio at [GmTheDev](http://gmthedev.com)
 * ✉️  You can contact me at [ghulam.mustafa8922@gmail.com](mailto:ghulam.mustafa8922@gmail.com)
-* 🧠  I'm learning I'm learning Android Development with Flutter.
+* 🧠  I'm learning Android Development with Flutter.
 * 🤝  I'm open to collaborating on web development projects
 
 ### Skills
