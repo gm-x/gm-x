@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 AI Researcher, Software and Web Developer.
 ------------------------------------------
 
-Software and website developer for over 4 years with over 2 years of experience as a researcher at the Control Automotive and Robotics Lab (branch of NCRA) at Mirpur University of Science and Technology. Skilled at Car Automaton in Controlled Environment and Artificial Intelligence Based Automaton. I have worked on diverse projects encompassing Lane Detection, Embedded Systems Designs and Implementation, Object Detection Algorithms, Web Design and Development, Android Development, and WordPress Custom Theme Development. Also, I have a strong grip on advanced deep-learning techniques employed in object detection for self-driving vehicles.
+I am a Computer Science Graduate with over 4 years of experience in Software and website development and over 2 years of experience as a researcher at the Control Automotive and Robotics Lab (branch of NCRA) at Mirpur University of Science and Technology. Skilled at Car Automaton in a Controlled Environment and Artificial Intelligence Based Automaton. I have worked on diverse projects encompassing Lane Detection Algorithms, Embedded System Designs and Implementation, Object Detection Algorithms, Web Design and Development, Android Development, and WordPress Custom Theme Development. Also, I have a strong grip on advanced deep-learning techniques employed in object detection for self-driving vehicles.
 
 
 * 🌍  I'm based in Azad Kashmir, Pakistan
