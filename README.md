@@ -7,7 +7,6 @@ AI Researcher, Software and Web Developer.
 Software and website developer for over 4 years with over 2 years of experience as a researcher at the Control Automotive and Robotics Lab (branch of NCRA) at Mirpur University of Science and Technology. Skilled at Car Automaton in Controlled Environment and Artificial Intelligence Based Automaton. Also skilled at embedded systems and electrical hardware.
 
 * 🌍  I'm based in Azad Kashmir, Pakistan
-* 🖥️  See my portfolio at [GmTheDev](http://gmthedev.com)
 * ✉️  You can contact me at [ghulam.mustafa8922@gmail.com](mailto:ghulam.mustafa8922@gmail.com)
 * 🧠  I'm learning Android Development with Flutter.
 * 🤝  I'm open to collaborating on web development projects
