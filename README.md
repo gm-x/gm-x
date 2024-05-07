@@ -8,7 +8,7 @@ I am a Computer Science Graduate with over 6 years of experience in Software and
 
 
 * 🌍  I'm based in Azad Kashmir, Pakistan
-* ✉️  You can contact me at [ghulam.mustafa8922@gmail.com](mailto:ghulam.mustafa8922@gmail.com)
+* ✉️  You can contact me at [ghulam.mustafa8922@gmail.com](mailto:contact@gmthedev.com)
 * 🧠  I'm learning Android Development with Flutter.
 * 🤝  I'm open to collaborating on web development projects
 
